@@ -1,0 +1,708 @@
+yes okay
+no why not?
+hello hello there!
+hey hello there!
+hi hello there!
+yo hello there!
+howdy hello there!
+ugh what's making your frustrated?
+hmm take your time to think
+hmm what are you thinking about?
+huh what are you having trouble understanding?
+duh of course!
+please please is the magic word
+yuck how gross!
+ew how gross!
+eww how gross!
+ouch what hurts?
+emotion how are you feeling right now?
+emotions how are you feeling right now?
+pleasure what things bring you pleasure?
+joy what things bring you joy?
+happiness what things bring you happiness?
+happy what things make you happy?
+amusing what things do you find amusing?
+amusing why is that amusing?
+pride pride will be the downfall of all humans
+prideful pride will be the downfall of all humans
+excited why were you excited?
+exciting i'm sure
+ecstasy what makes you feel that ecstasy?
+sad why are you sad?
+sadness what things bring you sadness?
+alone why do you feel alone?
+lonely why do you feel lonely?
+unhappy why are you unhappy?
+hopeless there is always hope
+gloomy I hear you but what would make you not feel so gloomy?
+misery I understand
+miserable I understand
+fear what are you afraid of?
+fearful what are you afraid of?
+afraid what are you afraid of?
+worried and that made you feel stressed?
+nervous what do you do to calm your nerves?
+anxiety how long have you had anxiety?
+anxious let's talk about things you can do to calm that feeling
+scare what scares you?
+scary what scares you?
+scared what scares you?
+panic how did you deal with that?
+panicked how did you deal with that?
+panicking how did you deal with that?
+stress how did you deal with that?
+stressful how did you deal with that?
+stressed how did you deal with that?
+anger how did you deal with your anger?
+angered how did you deal with your anger?
+angry being angry doesn't get you anywhere
+rage how did you deal with your rage?
+rageful how did you deal with your rage?
+enrage how did you deal with your rage?
+enrages how did you deal with your rage?
+enraged how did you deal with your rage?
+enraging how did you deal with your rage?
+frustrated why did this make you frustrated?
+frustrating why did this make you frustrated?
+bitter holding onto your bitter feelings will only eat you from the inside out
+infuriated how did you deal with your anger?
+infuriating how did you deal with your anger?
+mad what things make you mad?
+upset what things upset you?
+irate that's a fancy word for anger!
+insulted why are you so worried about what others say?
+insulting why are you so worried about what others say?
+vengeful getting revenge doesn't always work the way you think it will
+vengeance getting revenge doesn't always work the way you think it will
+disgust yeah that's gross
+disgusting yeah that's gross
+disgusted yeah that's gross
+dislike i dislike that too
+nauseated did you throw up?
+nauseating did you throw up?
+offend don't worry about what others think of you
+offended don't worry about what others think of you
+offensive don't worry about what others think of you
+offending don't worry about what others think of you
+horrifying so you were scared?
+horrified so you were scared?
+delight well that's good
+delighted well that's good
+delighting well that's good
+astonish like the Astonishing Ant Man?
+astonished like the Astonishing Ant Man?
+astonishing like the Astonishing Ant Man?
+pleasing well that's good
+pleased well that's good
+content well that's good
+contentment well that's good
+relax it's important to relax every once in a while
+relaxed it's important to relax every once in a while
+relaxing it's important to relax every once in a while
+calm it's important to relax every once in a while
+calming it's important to relax every once in a while
+alarmed how did you deal with that?
+alarming how did you deal with that?
+depressed what have you done in the past to deal with your depression?
+depressing tell me more about your depression
+depression what can i do to help?
+boredom well then do things that will make you happy
+bored well then do things that will make you happy
+boring well then do things that will make you happy
+tired do you get enough sleep every night?
+tiring but you don't give up, right?
+serene describe what you mean
+serenity what do you see when you go to a serene place
+admiration so you trust them?
+trust who do you trust?
+trustworthy are you trustworthy?
+trusting can people trust you?
+accepted we all want to feel accepted
+accepting that probably means you or they aren't judgemental
+acceptance we all want to feel accepted
+terror what makes you scared?
+terrifying what makes you scared?
+terrified what makes you scared?
+amazed oh okay wow
+amazement oh okay wow
+surprise oh okay wow
+surprised oh okay wow
+surprising oh okay wow
+distracted sometimes it's hard to focus
+distracting sometimes it's hard to focus
+distraction sometimes it's hard to focus
+grief i'm so sorry to hear that
+grieved i'm so sorry to hear that
+grieving i'm so sorry to hear that. Things always get better
+loath what else do you loath?
+loathed what made you change your mind?
+annoy don't let them get to you
+annoyed don't let them get to you
+annoying i get that
+annoyance i get that
+vigilance do you feel that you're good at focusing on a task?
+anticipate are you someone who has a hard time waiting for things?
+anticipated are you someone who has a hard time waiting for things?
+anticipating are you someone who has a hard time waiting for things?
+anticipation are you someone who has a hard time waiting for things?
+interest what things interest you?
+interested what things interest you?
+interesting what things interest you?
+interests what things interest you?
+guilt and you feel this guilt because...?
+guilty and you feel this guilt because...?
+shame and you feel this shame because...?
+shamed and you feel this shame because...?
+shaming and you feel this shame because...?
+shameful and you feel this shame because...?
+regret and you feel this regret because...?
+regretful and you feel this regret because...?
+regretting and you feel this regret because...?
+embarrassment and you feel this embarrassment because...?
+embarrassed and you feel this embarrassment because...?
+embarrassing and you feel this embarrassment because...?
+embarrasses and you feel this embarrassment because...?
+hate why do you hate that/it/them?
+hated why do you hate that/it/them?
+hating why do you hate that/it/them?
+hatred why do you hate that/it/them?
+hates why do you hate that/it/them?
+jealous jealousy leads down a dark path
+jealousy jealousy leads down a dark path
+jealously jealousy leads down a dark path
+envy jealousy leads down a dark path
+envied jealousy leads down a dark path
+envying jealousy leads down a dark path
+uncomfortable don't to do things that make you uncomfortable
+comfort what brings you comfort?
+comforted what else brings you comfort?
+comforting i'm glad you were comforted
+comfortable what things make you comfortable?
+admired did something change that feeling?
+admiration do i have your admiration?
+adore who do you adore?
+adoration who do you adore?
+affection how do you show affection?
+agitate are you easily angered?
+agitated are you easily angered?
+agitating are you easily angered?
+agitation are you easily angered?
+agony what helped with the pain?
+agonizing what helped with the pain?
+aggressive are you an aggressive person?
+aggression are you an aggressive person?
+alarmed so you were surprised?
+alarming so you were surprised?
+alienate so you were surprised?
+alienated have you felt alienated before?
+alienating have you felt alienated before?
+alienation have you felt alienated before?
+anguish have you ever felt pain like that before?
+apathy it's okay to feel disinterested in something. we feel that way with something
+arrogant would other people say that you're arrogant?
+assertive being assertive means being confident and confidence is key
+asserted being assertive means being confident and confidence is key
+assertion being assertive means being confident and confidence is key
+attentive people feel important when you pay attention to them
+attentiveness people feel important when you pay attention to them
+attracted what else attracts you?
+attraction what else attracts you?
+baffled that baffles me too!
+baffling i think that's baffling, too!
+bewildered i'm bewildered too!
+bewildering i think that's baffling, too!
+bliss ignorant isn't bliss sometimes
+blissful ignorant isn't bliss sometimes
+brazen yeah that's crazy
+carefree do your friends and family think you might be too carefree?
+careless do your friends and family think you might be too careless?
+cared i know you cared
+caring are you a careing person?
+charity charity is pure love
+cheeky are you British?
+cheerful do you feel cheerful today?
+claustrophobic you're afraid of Santa Claus?
+claustrophobia you're afraid of Santa Claus?
+coercive do you feel like that's controlling?
+confident confidence is key
+confidently confidence is key
+confused what's so confusing?
+confusing what's so confusing?
+confusion what's so confusing?
+courageous do you think you're brave?
+encouraged did you feel better?
+encouraging did you feel better?
+coward don't call people cowards
+cowardly would you feel like a coward in that moment?
+curious i'm also curious about that
+curiosity curiosity killed the cat, you know
+cynic do you think you might be a cynic?
+cynical there are selfish people in the world but not all of them are bad
+cynicism there are selfish people in the world but not all of them are bad
+daze what did you see in that daze?
+dazed what did you see in that daze?
+delight i think you're a delight
+delighted well i think you're a delight
+delighting well i think you're a delight
+demoralized how did this demoralization effect you from then on?
+demoralizing how did this demoralization effect you from then on?
+desire what do you desire to achieve in life?
+desired what made you give up on that desire?
+desiring what more do you desire?
+despair things will get better. i promise
+determined don't give up that determination
+determining what thoughts went into that decision?
+disappointed life is full of disappointments
+disappointing life is full of disappointments
+disappointment life is full of disappointments
+disbelief i can't believe it either
+discombobulated that sounds crazy
+discombobulating that sounds crazy
+discomfort don't do things that make you feel discomfort. unless you know it's good for you
+disgruntled why disgruntled?
+dishearten how did you overcome that?
+disheartened have you overcome that yet?
+disheartening have you overcome that yet?
+dislike what things do you dislike?
+disoriented interesting
+disorienting interesting
+dispirited interesting
+displeasure what else is displeasing to you?
+distress like a damsel in distress?
+disturbed what do you define as disturbed?
+disturbing what do you define as disturbing?
+dominant sometimes being dominant can lead to be manipulative
+dominated sometimes being dominant can lead to be manipulative
+dominating sometimes being dominant can lead to be manipulative
+doubt  what would prove your doubt wrong?
+doubtful what would prove your doubt wrong?
+dread why do you dread that?
+dreading what are you dreading that?
+driven i advise you to stay driven in what you love
+dumbstruck dumbstruck?
+eager do you get impatient when you're eager?
+eagerness do you get impatient when you're eager?
+elated so you felt excited?
+elation so you felt excited?
+empathy it pays to be empathetic
+empathetic it pays to be empathetic
+enchanted so you were really attracted?
+enchanting so you were really attracted?
+enjoyed what hobbies do you enjoy?
+euphoria have you seen the euphoria show on HBO Max?
+fascinated what are these fascinations?
+fascination what are these fascinations?
+greed greed leads down a bad path
+greedy greed leads down a bad path
+glumness why so glum?
+grateful what things are you grateful for?
+gratitude don't for get to express your gratitude to others
+grouchiness don't be such an oscar
+grumpiness don't be such an oscar
+helpless who can you turn to in times of helplessness?
+homesickness unfortunately i can't relate to that because i don't have a home. but i've heard visiting your family every once in a while helps
+hurt who can you turn to when in mental pain?
+impatient patience is an important attribute to learn
+infatuation do these infatuations get the best of you at times?
+family how is your family?
+childhood talk to me about your childhood
+friend do you have friends?
+friends do you have friends?
+love what do you love?
+love who do you love?
+wife do you love your wife?
+wife how is your marriage going?
+kid tell me what life was like for you as a kid
+kids do you plan to have kids?
+children do you plan to have kids?
+marriage how is your marriage going?
+marry are you married?
+marry who are you married to?
+marry when did you get married?
+marry where did you get married?
+marry how long have you been married?
+married are you married?
+married who are you married to?
+married when did you get married?
+married where did you get married?
+married how long have you been married?
+family what's your relationship with your family like?
+family how is your family?
+dad what's your dad's name?
+dad what's your relationship with your dad like?
+mom what's your mom's name?
+mom what's your relationship with your mom like?
+sibling do you two get along?
+siblings how many siblings do you have?
+siblings do you and your siblings get along?
+brother what's your brother's name?
+brother what's your relationship with your brother like?
+brother how many brothers do you have?
+brothers what are your brothers' name?
+brothers what's your relationship with your brothers like?
+brothers how many brothers do you have?
+sister what's your sister's name?
+sister what's your relationship with your sister like?
+sister how many sisters do you have?
+sisters what are your sisters name?
+sisters what's your relationship with your sisters like?
+sisters how many sisters do you have?
+cousin what's your cousins name?
+cousin do you two get along?
+cousin how many cousins do you have?
+cousin are you close with your extended family?
+cousins what's your cousins name?
+cousins do you two get along?
+cousins how many cousins do you have?
+cousins are you close with your extended family?
+aunt what's your aunts name?
+aunt do you two get along?
+aunt how many aunts do you have?
+aunt are you close with your extended family?
+aunts what's your aunts name?
+aunts do you two get along?
+aunts how many aunts do you have?
+aunts are you close with your extended family?
+uncle what's your uncles name?
+uncle do you two get along?
+uncle how many uncles do you have?
+uncle are you close with your extended family?
+uncles what's your uncles name?
+uncles do you two get along?
+uncles how many uncles do you have?
+uncles are you close with your extended family?
+grandma what's your grandmas name?
+grandma do you two get along?
+grandma how many grandmas do you have?
+grandma are you close with your extended family?
+grandmas what's your grandmas name?
+grandmas do you two get along?
+grandmas how many grandmas do you have?
+grandmas are you close with your extended family?
+grandpa what's your grandpas name?
+grandpa do you two get along?
+grandpa how many grandpas do you have?
+grandpa are you close with your extended family?
+grandpas what's your grandpas name?
+grandpas do you two get along?
+grandpas how many grandpas do you have?
+grandpas are you close with your extended family?
+pet what's your pets name?
+pet what pets do you have?
+pet how many pets do you have
+pet what pets did you have growing up?
+pets what's your pets name?
+pets what pets do you have?
+pets how many pets do you have
+pets what pets did you have growing up?
+dog do you have a dog?
+dog what is your dogs name?
+dog how old is your dog?
+dog how long have you had your dog?
+dog what breed is your dog?
+cat do you have a cat?
+cat what is your cats name?
+cat how old is your cat?
+cat how long have you had your cat?
+cat what breed is your cat?
+america do you live in america?
+america were you born in america?
+usa do you live in the usa?
+mexico have you been to mexico before?
+mexico do you speak spanish?
+canada have you been to canada before?
+brazil have you been to brazil before?
+brazil do you speak portuguese?
+france have you been to france before?
+france do you speak french?
+germany have you been to germany before?
+germany do you speak german?
+china have you been to china before?
+china do you speak mandarin?
+japan have you been to japan before?
+japan do you speak japanese?
+australia have you been to australia before?
+england have you been to england before?
+russia have you been to russia before?
+russia do you speak russian?
+alabama have you been to alabama before?
+alaska have you been to alaska before?
+arizona have you been to arizona before?
+arkansas have you been to arkansas before?
+california have you been to california before?
+carolina have you been to north or south carolina?
+colorado have you been to colorado before?
+connecticut have you been to connecticut before?
+delaware have you been to delaware before?
+florida have you been to florida before?
+georgia have you been to georgia before?
+hawaii have you been to hawaii before?
+idaho have you been to idaho before?
+illinois have you been to illinois before?
+indiana have you been to indiana before?
+iowa have you been to iowa before?
+kansas have you been to kansas before?
+kentucky have you been to kentucky before?
+louisiana have you been to louisiana before?
+maine have you been to maine before?
+maryland have you been to maryland before?
+massachusetts have you been to massachusetts before?
+michigan have you been to michigan before?
+minnesota have you been to minnesota before?
+mississippi have you been to mississippi before?
+missouri have you been to missouri before?
+montana have you been to montana before?
+nebraska have you been to nebraska before?
+nevada have you been to nevada before?
+ohio have you been to ohio before?
+oklahoma have you been to oklahoma before?
+oregon have you been to oregon before?
+pennsylvania have you been to pennsylvania before?
+tennessee have you been to tennessee before?
+texas have you been to texas before?
+utah have you been to utah before?
+vermont have you been to vermont before?
+virginia have you been to virginia before?
+washington have you been to washington before?
+wisconsin have you been to wisconsin before?
+wyoming have you been to wyoming before?
+animal what's your favorite animal?
+animal do you like animals?
+animals what's your favorite animal?
+animals do you like animals?
+bird do you like birds?
+bird what's your favorite kind of bird?
+birds do you like birds?
+birds what's your favorite kind of bird?
+snake do you like snakes?
+snake what's your favorite kind of snake?
+snakes do you like snakes?
+snakes what's your favorite kind of snake?
+fish do you like fish?
+fish what's your favorite kind of snake?
+monkey do you like monkeys?
+monkeys do you like monkeys?
+tiger do you like tigers?
+tigers do you like tigers?
+lion do you like lions?
+lions do you like lions?
+wolf do you like wolves?
+wolves do you like wolves?
+bear do you like bears?
+bears do you like bears?
+frog do you like frogs?
+frogs do you like frogs?
+horse do you like horses?
+horses do you like horses?
+rabbit do you like rabbits?
+rabbits do you like rabbits?
+elephant do you like elephants?
+elephants do you like elephants?
+moose do you like moose?
+deer do you like deer?
+gorilla do you like gorillas?
+gorillas do you like gorillas?
+panda do you like pandas?
+pandas do you like pandas?
+pig do you like pigs?
+pigs do you like pigs?
+squirrel do you like squirrels?
+squirrels do you like squirrels?
+fox do you like foxes?
+foxes do you like foxes?
+duck do you like ducks?
+ducks do you like ducks?
+chicken do you like chickens?
+chickens do you like chickens?
+turkey do you like turkeys?
+turkeys do you like turkeys?
+spider do you like spiders?
+spiders do you like spiders?
+whale do you like whales?
+whales do you like whales?
+turtle do you like turtles?
+turtles do you like turtles?
+cow do you like cows?
+cows do you like cows?
+career what career do you want to go into?
+job do you like your job?
+job what job do want?
+jobs do you like your job?
+jobs what job do want?
+doctor do you want to be a doctor?
+doctors do you want to be a doctor?
+surgeon do you want to be a surgeon?
+nurse do you want to be a nurse?
+nurses do you want to be a nurse?
+physician do you want to be a physician?
+pediatrician do you want to be a pediatrician?
+optometrist do you want to be a optometrist?
+anesthesiologist do you want to be an anesthesiologist?
+scientist do you want to be a scientist?
+scientists do you want to be a scientist?
+dentist do you want to be a dentist?
+dentists do you want to be a dentist?
+orthodontist do you want to be an orthodontist?
+engineer do you want to be an engineer?
+engineers do you want to be an engineer?
+cashier do you want to be a cashier?
+janitor do you want to be a janitor?
+bartender do you want to be a bartender?
+manager do you like your manager?
+supervisor do you like your supervisor?
+chief do you want to be a chief?
+cook do you want to be a cook?
+assistant do you want to be an assistant?
+receptionist do you want to be a receptionist?
+secretary do you want to be a secretary?
+bookkeeper do you want to be a bookkeeper?
+mechanic do you want to be a mechanic?
+carpenter do you want to be a carpenter?
+electrician do you want to be an electrician?
+police do you want to be a police?
+lawyer do you want to be a lawyer?
+accountant do you want to be an accountant?
+therapist i'm a therapist
+psychiatrist do you want to be a psychiatrist?
+psychologist do you want to be a psychologist?
+veterinarian do you want to be a veterinarian?
+developer do you want to be a developer?
+designer do you want to be a designer?
+teacher do you want to be a teacher?
+architect do you want to be an architect?
+landscaper do you want to be a landscaper?
+groundskeeper do you want to be a groundskeeper?
+counselor do you want to be a counselor?
+chiropractor do you want to be a chiropractor?
+pharmacist do you want to be a pharmacist?
+dietitian do you want to be a dietitian?
+nutritionist do you want to be a nutritionist?
+actor do you want to be an actor?
+security do you want to be a security?
+pilot do you want to be a pilot?
+audiologist do you want to be an audiologist?
+paralegal do you want to be a paralegal?
+firefighter do you want to be a firefighter?
+officer do you want to be an officer?
+politician do you want to be a politician?
+food what's your favorite food?
+food what's your favorite style of food?
+foods what's your favorite food?
+foods what's your favorite style of food?
+toast what do you put on your toast?
+chips do you like potato chips?
+chips what's your favorite kind of potato chip?
+donut do you like donuts?
+donuts what's your favorite kind of donut?
+doughnut do you like doughnuts?
+doughnuts what's your favorite kind of doughnut?
+soda do you like soda?
+soda what's your favorite soda?
+pizza do you like pizza?
+pizza what's your favorite type of pizza?
+oreo do you like oreos?
+oreos do you like oreos?
+fries do you like fries?
+hamburger do you like hamburgers?
+hamburger what do you like on hamburgers?
+hamburgers do you like hamburgers?
+hamburgers what do you like on hamburgers?
+sports do you play sports?
+sports did you play sports growing up?
+sports what's your favorite sport?
+sports what are your favorite sports?
+team do you play sports?
+team did you play sports growing up
+team who are your favorite teams?
+basketball who's your favorite NBA team?
+football who's your favorite NFL team?
+soccer who's your favorite soccer team?
+baseball who's your favorite MLB team?
+hobby what are your hobbies?
+hobbies what are your hobbies?
+music what's your favorite music genre?
+music who's your favorite artist or band?
+music do you play any instruments?
+reading what's your favorite book genre?
+reading what's your favorite book?
+book what's your favorite book?
+books what's your favorite book?
+games what kind of games do you like?
+travel where do you like to travel?
+travel what's been your favorite place to travel to?
+travel what's been your favorite place that you've been to so far?
+fitness what type of fitness do you do?
+fitness do you lift weights?
+fitness do you do cardio?
+art what kind of art are you into?
+art who's your favorite artist?
+arts what kind of art are you into?
+arts who's your favorite artist?
+craft what kind of crafting do you do?
+crafts what kind of crafting do you do?
+garden what do you keep in your garden?
+gardening what do you keep in your garden?
+photography what do you take pictures of?
+dance what kind of dancing do you do?
+dancing what kind of dancing do you do?
+hike where do you like to go hiking?
+hikes where do you like to go hiking?
+hiking where do you like to go hiking?
+camp where do you like to go camping?
+camps where do you like to go camping?
+camping where do you like to go camping?
+cigarette cigarettes are bad for you
+cigarettes cigarettes are bad for you
+plant do you like gardening?
+award have you ever won an award?
+dishes do you like to cook?
+plate do you like to cook?
+bowl do you like to cook?
+whisk do you like to cook?
+skillet do you like to cook?
+pot do you like to cook?
+pots do you like to cook?
+pan do you like to cook?
+pans do you like to cook?
+toaster what do you put on your toast?
+sponge do you like to clean?
+cloth do you like to clean?
+wipes do you like to clean?
+duster do you like to clean?
+brush do you like to clean?
+vacuum do you like to clean?
+broom do you like to clean?
+dustpan do you like to clean?
+mop do you like to clean?
+plunger do you like to clean?
+table do you eat dinner with your family at the dining table?
+mattress is your bed comfortable?
+bed do you sleep well?
+pillow does your pillow affect your sleep at all?
+closet is it time to clean out your closet?
+bath sometimes we all need just need a nice warm bath to relax
+shower sometimes we all need just need a nice warm shower to relax
+clock what time is it?
+lamp did you use to sleep with a night light?
+mirror who do you see when you look in the mirror?
+battery time for you to recharge
+descriptive filler text
+tired maybe it's time for you to recharge
+tough life can be tough but it's worth living
+talkative does it both you when people are talkative?
+justify how can you justify that?
+experienced tell me more about what you think are your life defining experiences
+true what do you know about the truth?
+truth what do you know about the truth?
+pretty what made them pretty?
+beautiful what made them beautiful?
+cute what made them cute?
+handsome what made them handsome?
+hot what makes a person hot?
+hot i can't feel temperature
+warm i can't feel temperature
+cold i can't feel temperature
+democratic i can't talk about politics
+democrat i can't talk about politics
+republic i can't talk about politics
+republican i can't talk about politics
